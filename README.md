@@ -32,6 +32,6 @@ Use:
 and see the file replacements in angular.json
 to see how it all works.
 Use:
-  ng test  --configuration=development --browsers ChromeHeadless --watch=false  
+  ng test  --configuration=development --no-browsers --watch=false  
   ng serve --configuration=production
     for prod
